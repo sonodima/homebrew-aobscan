@@ -16,4 +16,8 @@ class Aobscan < Formula
   on_linux do
     url "https://github.com/sonodima/aobscan-cli/releases/latest/download/aobscan-x86_64-unknown-linux-gnu.tar.gz"
   end
+
+  def install
+    bin.install "aobscan"
+  end
 end
