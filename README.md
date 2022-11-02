@@ -1,5 +1,7 @@
 <h1 align="center">Homebrew Repository 📦</h1>
 
+> Homebrew <kbd>TAP</kbd> for my releases.
+
 ## 🍺 Add to Brew:
 
 ```sh
