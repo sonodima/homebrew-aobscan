@@ -7,5 +7,5 @@ brew tap sonodima/sonodima
 ```
 
 ## 📦 Packages:
-- [AOBscan:](https://github.com/sonodima/aobscan-cli) the command-line utility for memory scanning
+- [aobscan:](https://github.com/sonodima/aobscan-cli) the command-line utility for memory scanning
 
